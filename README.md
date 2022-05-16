@@ -1,2 +1,2 @@
 # ElasticBeanStalkProject
-Infrastructure as a code - Terraform to Create AWS VPC and Deploy Application in Elastic Bean Stalk
+Infrastructure as a code - Terraform to Create AWS VPC and Deploy Elastic BeanStalk Application in VPC
